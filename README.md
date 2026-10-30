@@ -109,8 +109,13 @@ Features
 - Only uses a couple of MB of memory and a negligible amount of CPU, even with several hundreds of feeds.
 - Respects/sends Last-Modified, If-Modified-Since, If-None-Match, Cache-Control, Expires and ETags headers, and has a default polling interval of 1h.
 
-Documentation
--------------
+Installation
+------------
+
+Miniflux can also be deployed in one click:
+
+<a href="https://repocloud.io/details/Miniflux/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/miniflux"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
 
 The Miniflux documentation is available here: <https://miniflux.app/docs/> ([Man page](https://miniflux.app/miniflux.1.html))
 
